@@ -1,0 +1,32 @@
+aid: board-game-geek
+name: Board Game Geek
+description: "Board games, RPG and videogames"
+url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Board Game Geek
+    description: "Board games, RPG and videogames"
+    humanURL: https://boardgamegeek.com/wiki/page/BGG_XML_API2
+    baseURL: https://boardgamegeek.com/wiki/page/BGG_XML_API2
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
+common:
+  - type: Website
+    url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
