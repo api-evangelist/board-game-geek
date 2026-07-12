@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
 common:
+  - type: VulnerabilityDisclosure
+    url: security/board-game-geek-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/board-game-geek-domain-security.yml
   - type: Website
     url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
   - type: PublicAPIsListing
