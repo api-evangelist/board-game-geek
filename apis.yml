@@ -1,4 +1,16 @@
 aid: board-game-geek
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/board-game-geek.png
 name: Board Game Geek
 description: "Board games, RPG and videogames"
 url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
