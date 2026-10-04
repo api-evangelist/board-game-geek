@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Board Games
 apis:
   - name: Board Game Geek
     description: "Board games, RPG and videogames"
     humanURL: https://boardgamegeek.com/wiki/page/BGG_XML_API2
-    baseURL: https://boardgamegeek.com/wiki/page/BGG_XML_API2
     tags:
       - Games And Comics
     properties:
@@ -57,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
